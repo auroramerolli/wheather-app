@@ -1,4 +1,4 @@
-# Aplikacion moti me Next.js
+## Aplikacion moti me Next.js
 
 Weather-App është një aplikacion i thjeshtë dhe i shpejtë për parashikimin e motit, i ndërtuar me Next.js (App Router). Është përdor **Open-Meteo**, (një API moti falas) i cili nuk kërkon çelës (API key).
 
@@ -43,7 +43,9 @@ lib/
 <img width="863" height="906" alt="image" src="https://github.com/user-attachments/assets/f9bfac75-6110-4270-be1c-beb5ea124af3" />
 <img width="787" height="725" alt="image" src="https://github.com/user-attachments/assets/4ef9ce74-808b-4e9c-9a83-cd975d3f1295" />
 
-#Publikimi (Deploy)
+
+
+##Publikimi (Deploy)
 https://wheather-app-beta-nine.vercel.app/
 
 
