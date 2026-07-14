@@ -36,8 +36,11 @@ lib/
 
 ## API e përdorur
 
-[Open-Meteo](https://open-meteo.com) — falas për përdorim jo-komercial, pa çelës API:
+[Open-Meteo](https://open-meteo.com)
 
 - Gjeokodimi: `https://geocoding-api.open-meteo.com/v1/search`
 - Parashikimi: `https://api.open-meteo.com/v1/forecast`
+<img width="863" height="906" alt="image" src="https://github.com/user-attachments/assets/f9bfac75-6110-4270-be1c-beb5ea124af3" />
+<img width="787" height="725" alt="image" src="https://github.com/user-attachments/assets/4ef9ce74-808b-4e9c-9a83-cd975d3f1295" />
+
 
