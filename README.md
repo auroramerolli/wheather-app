@@ -43,4 +43,7 @@ lib/
 <img width="863" height="906" alt="image" src="https://github.com/user-attachments/assets/f9bfac75-6110-4270-be1c-beb5ea124af3" />
 <img width="787" height="725" alt="image" src="https://github.com/user-attachments/assets/4ef9ce74-808b-4e9c-9a83-cd975d3f1295" />
 
+#Publikimi (Deploy)
+https://wheather-app-beta-nine.vercel.app/
+
 
